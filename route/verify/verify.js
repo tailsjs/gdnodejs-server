@@ -1,7 +1,6 @@
 module.exports = {
     url: "verify",
     func: function(q,s,db){
-        console.log(q.query)
         if(!q.query.token)return s.send("Error!");
         let user = db.get("users").find({ verify_token: q.query.token }).value();
         if(!user){
