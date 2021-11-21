@@ -5,6 +5,7 @@
 1. Download the repository
 2. Write in the console "npm i"
 3. Configure the server in ./config.json
+4. "node index.js"
 
 ## Configuration
 
