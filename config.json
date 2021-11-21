@@ -1,0 +1,84 @@
+{
+    "base_route": "/database/",
+    "dailyRewards": {
+        "small": {
+            "timestamp": 1800,
+            "orbs": [200, 400],
+            "diamonds": [2, 4],
+            "shards": [1, 10],
+            "keys": [1, 5]
+        },
+        "big": {
+            "timestamp": 14400,
+            "orbs": [200, 400],
+            "diamonds": [2, 4],
+            "shards": [1, 10],
+            "keys": [1, 5]
+        }
+    },
+    "tgreports": {
+        "chat_id": -1,
+        "token": ""
+    },
+    "gmail": {
+        "enabled": false,
+        "mail": "gdtjsbot@gmail.com",
+        "pass": "dgdsgdfsghfghdseq",
+        "botName": "GDTailBot"
+    },
+    "quests": {
+        "useCustomNames": false,
+        "customNames": [ "t.me/tjsblog", "GDTJS!" ],
+        "coins": [
+            {
+                "name": "Coin Starter!",
+                "need": 2,
+                "reward": 10
+            },
+            {
+                "name": "Coin Pro!",
+                "need": 4,
+                "reward": 30
+            },
+            {
+                "name": "Coin Master!",
+                "need": 6,
+                "reward": 50
+            }
+        ],
+        "orbs": [
+            {
+                "name": "Orb Starter!",
+                "need": 200,
+                "reward": 10
+            },
+            {
+                "name": "Orb Pro!",
+                "need": 400,
+                "reward": 30
+            },
+            {
+                "name": "Orb Master!",
+                "need": 600,
+                "reward": 50
+            }
+        ],
+        "stars": [
+            {
+                "name": "Star Starter!",
+                "need": 10,
+                "reward": 20
+            },
+            {
+                "name": "Star Pro!",
+                "need": 20,
+                "reward": 40
+            },
+            {
+                "name": "Star Master!",
+                "need": 30,
+                "reward": 60
+            }
+        ]
+    }
+}
