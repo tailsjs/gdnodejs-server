@@ -7,6 +7,13 @@
 3. Configure the server in ./config.json
 4. "node index.js"
 
+## Android client
+Yeah, we made android client. [Download here!](https://mega.nz/file/Hi4llTjB#_wePngjO1Ur-c_I88-C20SF9f7j-SfSC93RBojyqM7I)
+### Setup
+1. Decompile client
+2. Change `redirectHost` in `libs/armeabi-v7a/libtailsjs.config.so`
+3. Compile client
+
 ## Configuration
 
 ```json
