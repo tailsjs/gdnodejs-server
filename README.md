@@ -8,7 +8,7 @@
 4. "node index.js"
 
 ## Android client
-Yeah, we made android client. [Download here!](https://mega.nz/file/Hi4llTjB#_wePngjO1Ur-c_I88-C20SF9f7j-SfSC93RBojyqM7I)
+Yeah, we made android client. [Download here!](https://mega.nz/file/6yxznSpC#KiyRmK39fs4Mev8fByVNWKMuTMFOS7ylF0MrJWDKFL4)
 ### Setup
 1. Decompile client
 2. Change `redirectHost` in `libs/armeabi-v7a/libtailsjs.config.so`
